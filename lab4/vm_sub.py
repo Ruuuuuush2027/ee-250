@@ -23,7 +23,7 @@ def on_connect(client, userdata, flags, rc):
     #Add the custom callbacks by indicating the topic and the name of the callback handle
     client.message_callback_add("junsooki/ipinfo", on_message_from_ipinfo)
     client.message_callback_add("junsooki/date", on_message_from_date)
-    client.message_callback_add("junsooki/time", on_message_from_time)
+    client.message_callback_add("junsooki/time", on_message)
 
 
 """This object (functions are objects!) serves as the default callback for 
