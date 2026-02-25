@@ -4,6 +4,7 @@
 - Junsoo Kim <junsooki@usc.edu>
 - Mo Jiang <mojiang@usc.edu>
 - repo: https://github.com/Ruuuuuush2027/ee-250.git
+- for "generated graphs and the gathered logs", please see repo
 
 ## Lab Question Answers
 
